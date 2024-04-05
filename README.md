@@ -3,3 +3,7 @@
 Aqui esta mi projecto final para kodland.
 Espero que todo me salga bien y eso.
 No es muy profesional porque no soy un profesional (Todavia).
+
+Idea:
+
+Podemos frenar el cambio climático reduciendo las emisiones de gases de efecto invernadero mediante la transición hacia fuentes de energía renovable
