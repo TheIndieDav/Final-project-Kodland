@@ -25,5 +25,20 @@ Eh puesto animaciones y cosas que hacen la pagina mas divertida
 
 # Imagenes:
 
+![image](https://github.com/TheIndieDav/Final-project-Kodland/assets/81372075/3da15c91-1371-4b2c-9f78-bbe94634e8c8)
 ![image](https://github.com/TheIndieDav/Final-project-Kodland/assets/81372075/ead8b7f2-66c0-4086-b39e-8a6e2da4c51e)
 ![image](https://github.com/TheIndieDav/Final-project-Kodland/assets/81372075/c53969fe-6716-4edd-86c0-9d70ad76f731)
+
+# Instalación y uso del proyecto:
+
+No utilize realmente nada muy complicado, Solo Visual Studio Code Y HTML
+
+# Comentarios:
+
+Solo ponganlo en el github!
+Por ejemplo En la parte de "Issues"
+![image](https://github.com/TheIndieDav/Final-project-Kodland/assets/81372075/426cfa8d-a47f-4cc0-a2e7-4d2732f85ee1)
+
+# Conclusión:
+
+La idea del projecto lamentablemente no me dio mucho con que trabajar pero consegui hacer algo que me esta bien en mi opinion
