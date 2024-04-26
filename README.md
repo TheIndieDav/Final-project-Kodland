@@ -22,3 +22,8 @@ Esta pagina web se supone darte informacion sobre el calentamiento global, tales
 Informacion sobre el cambio climatico, Y porque siquiera detenerlo
 
 Eh puesto animaciones y cosas que hacen la pagina mas divertida
+
+#Imagenes:
+
+![image](https://github.com/TheIndieDav/Final-project-Kodland/assets/81372075/ead8b7f2-66c0-4086-b39e-8a6e2da4c51e)
+![image](https://github.com/TheIndieDav/Final-project-Kodland/assets/81372075/c53969fe-6716-4edd-86c0-9d70ad76f731)
